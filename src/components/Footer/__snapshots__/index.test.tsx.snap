@@ -1,0 +1,724 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Foote Renders Footer 1`] = `
+initialize {
+  "0": Object {
+    "attribs": Object {
+      "class": "sc-VigVT kSGxCS Footer",
+    },
+    "children": Array [
+      Object {
+        "attribs": Object {
+          "class": "sc-gqjmRU hMbKvK",
+        },
+        "children": Array [
+          Object {
+            "attribs": Object {
+              "class": "sc-ifAKCX sc-EHOje sc-bZQynM rzVkd",
+              "height": "100%",
+            },
+            "children": Array [
+              Object {
+                "attribs": Object {
+                  "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                },
+                "children": Array [
+                  Object {
+                    "attribs": Object {
+                      "class": "sc-bwzfXH SQDzB",
+                      "color": "white",
+                    },
+                    "children": Array [
+                      Object {
+                        "data": "© DeevHub Copyright 2019",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "text",
+                      },
+                    ],
+                    "name": "span",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "class": undefined,
+                      "color": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "class": undefined,
+                      "color": undefined,
+                    },
+                  },
+                ],
+                "name": "div",
+                "namespace": "http://www.w3.org/1999/xhtml",
+                "next": Object {
+                  "attribs": Object {
+                    "class": "sc-ifAKCX sc-gzVnrw cmcJb hideOnMobile",
+                  },
+                  "children": Array [],
+                  "name": "div",
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "next": Object {
+                    "attribs": Object {
+                      "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                    },
+                    "children": Array [
+                      Object {
+                        "attribs": Object {
+                          "class": "sc-bwzfXH SQDzB",
+                          "color": "white",
+                        },
+                        "children": Array [
+                          Object {
+                            "data": "Privacy Policy",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "text",
+                          },
+                        ],
+                        "name": "span",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "class": undefined,
+                          "color": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "class": undefined,
+                          "color": undefined,
+                        },
+                      },
+                    ],
+                    "name": "div",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": Object {
+                      "attribs": Object {
+                        "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                      },
+                      "children": Array [
+                        Object {
+                          "attribs": Object {
+                            "class": "sc-bwzfXH SQDzB",
+                            "color": "white",
+                          },
+                          "children": Array [
+                            Object {
+                              "data": "Terms & Conditions",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "text",
+                            },
+                          ],
+                          "name": "span",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "class": undefined,
+                            "color": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "class": undefined,
+                            "color": undefined,
+                          },
+                        },
+                      ],
+                      "name": "div",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": [Circular],
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "class": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "class": undefined,
+                      },
+                    },
+                    "parent": [Circular],
+                    "prev": [Circular],
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "class": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "class": undefined,
+                    },
+                  },
+                  "parent": [Circular],
+                  "prev": [Circular],
+                  "type": "tag",
+                  "x-attribsNamespace": Object {
+                    "class": undefined,
+                  },
+                  "x-attribsPrefix": Object {
+                    "class": undefined,
+                  },
+                },
+                "parent": [Circular],
+                "prev": null,
+                "type": "tag",
+                "x-attribsNamespace": Object {
+                  "class": undefined,
+                },
+                "x-attribsPrefix": Object {
+                  "class": undefined,
+                },
+              },
+              Object {
+                "attribs": Object {
+                  "class": "sc-ifAKCX sc-gzVnrw cmcJb hideOnMobile",
+                },
+                "children": Array [],
+                "name": "div",
+                "namespace": "http://www.w3.org/1999/xhtml",
+                "next": Object {
+                  "attribs": Object {
+                    "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                  },
+                  "children": Array [
+                    Object {
+                      "attribs": Object {
+                        "class": "sc-bwzfXH SQDzB",
+                        "color": "white",
+                      },
+                      "children": Array [
+                        Object {
+                          "data": "Privacy Policy",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "text",
+                        },
+                      ],
+                      "name": "span",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "class": undefined,
+                        "color": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "class": undefined,
+                        "color": undefined,
+                      },
+                    },
+                  ],
+                  "name": "div",
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "next": Object {
+                    "attribs": Object {
+                      "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                    },
+                    "children": Array [
+                      Object {
+                        "attribs": Object {
+                          "class": "sc-bwzfXH SQDzB",
+                          "color": "white",
+                        },
+                        "children": Array [
+                          Object {
+                            "data": "Terms & Conditions",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "text",
+                          },
+                        ],
+                        "name": "span",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "class": undefined,
+                          "color": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "class": undefined,
+                          "color": undefined,
+                        },
+                      },
+                    ],
+                    "name": "div",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": [Circular],
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "class": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "class": undefined,
+                    },
+                  },
+                  "parent": [Circular],
+                  "prev": [Circular],
+                  "type": "tag",
+                  "x-attribsNamespace": Object {
+                    "class": undefined,
+                  },
+                  "x-attribsPrefix": Object {
+                    "class": undefined,
+                  },
+                },
+                "parent": [Circular],
+                "prev": Object {
+                  "attribs": Object {
+                    "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                  },
+                  "children": Array [
+                    Object {
+                      "attribs": Object {
+                        "class": "sc-bwzfXH SQDzB",
+                        "color": "white",
+                      },
+                      "children": Array [
+                        Object {
+                          "data": "© DeevHub Copyright 2019",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "text",
+                        },
+                      ],
+                      "name": "span",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "class": undefined,
+                        "color": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "class": undefined,
+                        "color": undefined,
+                      },
+                    },
+                  ],
+                  "name": "div",
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "next": [Circular],
+                  "parent": [Circular],
+                  "prev": null,
+                  "type": "tag",
+                  "x-attribsNamespace": Object {
+                    "class": undefined,
+                  },
+                  "x-attribsPrefix": Object {
+                    "class": undefined,
+                  },
+                },
+                "type": "tag",
+                "x-attribsNamespace": Object {
+                  "class": undefined,
+                },
+                "x-attribsPrefix": Object {
+                  "class": undefined,
+                },
+              },
+              Object {
+                "attribs": Object {
+                  "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                },
+                "children": Array [
+                  Object {
+                    "attribs": Object {
+                      "class": "sc-bwzfXH SQDzB",
+                      "color": "white",
+                    },
+                    "children": Array [
+                      Object {
+                        "data": "Privacy Policy",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "text",
+                      },
+                    ],
+                    "name": "span",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "class": undefined,
+                      "color": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "class": undefined,
+                      "color": undefined,
+                    },
+                  },
+                ],
+                "name": "div",
+                "namespace": "http://www.w3.org/1999/xhtml",
+                "next": Object {
+                  "attribs": Object {
+                    "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                  },
+                  "children": Array [
+                    Object {
+                      "attribs": Object {
+                        "class": "sc-bwzfXH SQDzB",
+                        "color": "white",
+                      },
+                      "children": Array [
+                        Object {
+                          "data": "Terms & Conditions",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "text",
+                        },
+                      ],
+                      "name": "span",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "class": undefined,
+                        "color": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "class": undefined,
+                        "color": undefined,
+                      },
+                    },
+                  ],
+                  "name": "div",
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "next": null,
+                  "parent": [Circular],
+                  "prev": [Circular],
+                  "type": "tag",
+                  "x-attribsNamespace": Object {
+                    "class": undefined,
+                  },
+                  "x-attribsPrefix": Object {
+                    "class": undefined,
+                  },
+                },
+                "parent": [Circular],
+                "prev": Object {
+                  "attribs": Object {
+                    "class": "sc-ifAKCX sc-gzVnrw cmcJb hideOnMobile",
+                  },
+                  "children": Array [],
+                  "name": "div",
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "next": [Circular],
+                  "parent": [Circular],
+                  "prev": Object {
+                    "attribs": Object {
+                      "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                    },
+                    "children": Array [
+                      Object {
+                        "attribs": Object {
+                          "class": "sc-bwzfXH SQDzB",
+                          "color": "white",
+                        },
+                        "children": Array [
+                          Object {
+                            "data": "© DeevHub Copyright 2019",
+                            "next": null,
+                            "parent": [Circular],
+                            "prev": null,
+                            "type": "text",
+                          },
+                        ],
+                        "name": "span",
+                        "namespace": "http://www.w3.org/1999/xhtml",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "tag",
+                        "x-attribsNamespace": Object {
+                          "class": undefined,
+                          "color": undefined,
+                        },
+                        "x-attribsPrefix": Object {
+                          "class": undefined,
+                          "color": undefined,
+                        },
+                      },
+                    ],
+                    "name": "div",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": [Circular],
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "class": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "class": undefined,
+                    },
+                  },
+                  "type": "tag",
+                  "x-attribsNamespace": Object {
+                    "class": undefined,
+                  },
+                  "x-attribsPrefix": Object {
+                    "class": undefined,
+                  },
+                },
+                "type": "tag",
+                "x-attribsNamespace": Object {
+                  "class": undefined,
+                },
+                "x-attribsPrefix": Object {
+                  "class": undefined,
+                },
+              },
+              Object {
+                "attribs": Object {
+                  "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                },
+                "children": Array [
+                  Object {
+                    "attribs": Object {
+                      "class": "sc-bwzfXH SQDzB",
+                      "color": "white",
+                    },
+                    "children": Array [
+                      Object {
+                        "data": "Terms & Conditions",
+                        "next": null,
+                        "parent": [Circular],
+                        "prev": null,
+                        "type": "text",
+                      },
+                    ],
+                    "name": "span",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": null,
+                    "parent": [Circular],
+                    "prev": null,
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "class": undefined,
+                      "color": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "class": undefined,
+                      "color": undefined,
+                    },
+                  },
+                ],
+                "name": "div",
+                "namespace": "http://www.w3.org/1999/xhtml",
+                "next": null,
+                "parent": [Circular],
+                "prev": Object {
+                  "attribs": Object {
+                    "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                  },
+                  "children": Array [
+                    Object {
+                      "attribs": Object {
+                        "class": "sc-bwzfXH SQDzB",
+                        "color": "white",
+                      },
+                      "children": Array [
+                        Object {
+                          "data": "Privacy Policy",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "text",
+                        },
+                      ],
+                      "name": "span",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": null,
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "class": undefined,
+                        "color": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "class": undefined,
+                        "color": undefined,
+                      },
+                    },
+                  ],
+                  "name": "div",
+                  "namespace": "http://www.w3.org/1999/xhtml",
+                  "next": [Circular],
+                  "parent": [Circular],
+                  "prev": Object {
+                    "attribs": Object {
+                      "class": "sc-ifAKCX sc-gzVnrw cmcJb hideOnMobile",
+                    },
+                    "children": Array [],
+                    "name": "div",
+                    "namespace": "http://www.w3.org/1999/xhtml",
+                    "next": [Circular],
+                    "parent": [Circular],
+                    "prev": Object {
+                      "attribs": Object {
+                        "class": "sc-ifAKCX sc-gzVnrw kkMFAX sc-jTzLTM kPZgTv",
+                      },
+                      "children": Array [
+                        Object {
+                          "attribs": Object {
+                            "class": "sc-bwzfXH SQDzB",
+                            "color": "white",
+                          },
+                          "children": Array [
+                            Object {
+                              "data": "© DeevHub Copyright 2019",
+                              "next": null,
+                              "parent": [Circular],
+                              "prev": null,
+                              "type": "text",
+                            },
+                          ],
+                          "name": "span",
+                          "namespace": "http://www.w3.org/1999/xhtml",
+                          "next": null,
+                          "parent": [Circular],
+                          "prev": null,
+                          "type": "tag",
+                          "x-attribsNamespace": Object {
+                            "class": undefined,
+                            "color": undefined,
+                          },
+                          "x-attribsPrefix": Object {
+                            "class": undefined,
+                            "color": undefined,
+                          },
+                        },
+                      ],
+                      "name": "div",
+                      "namespace": "http://www.w3.org/1999/xhtml",
+                      "next": [Circular],
+                      "parent": [Circular],
+                      "prev": null,
+                      "type": "tag",
+                      "x-attribsNamespace": Object {
+                        "class": undefined,
+                      },
+                      "x-attribsPrefix": Object {
+                        "class": undefined,
+                      },
+                    },
+                    "type": "tag",
+                    "x-attribsNamespace": Object {
+                      "class": undefined,
+                    },
+                    "x-attribsPrefix": Object {
+                      "class": undefined,
+                    },
+                  },
+                  "type": "tag",
+                  "x-attribsNamespace": Object {
+                    "class": undefined,
+                  },
+                  "x-attribsPrefix": Object {
+                    "class": undefined,
+                  },
+                },
+                "type": "tag",
+                "x-attribsNamespace": Object {
+                  "class": undefined,
+                },
+                "x-attribsPrefix": Object {
+                  "class": undefined,
+                },
+              },
+            ],
+            "name": "div",
+            "namespace": "http://www.w3.org/1999/xhtml",
+            "next": null,
+            "parent": [Circular],
+            "prev": null,
+            "type": "tag",
+            "x-attribsNamespace": Object {
+              "class": undefined,
+              "height": undefined,
+            },
+            "x-attribsPrefix": Object {
+              "class": undefined,
+              "height": undefined,
+            },
+          },
+        ],
+        "name": "div",
+        "namespace": "http://www.w3.org/1999/xhtml",
+        "next": null,
+        "parent": [Circular],
+        "prev": null,
+        "type": "tag",
+        "x-attribsNamespace": Object {
+          "class": undefined,
+        },
+        "x-attribsPrefix": Object {
+          "class": undefined,
+        },
+      },
+    ],
+    "name": "footer",
+    "namespace": "http://www.w3.org/1999/xhtml",
+    "next": null,
+    "parent": null,
+    "prev": null,
+    "root": Object {
+      "attribs": Object {},
+      "children": Array [
+        [Circular],
+      ],
+      "name": "root",
+      "namespace": "http://www.w3.org/1999/xhtml",
+      "next": null,
+      "parent": null,
+      "prev": null,
+      "type": "root",
+      "x-attribsNamespace": Object {},
+      "x-attribsPrefix": Object {},
+    },
+    "type": "tag",
+    "x-attribsNamespace": Object {
+      "class": undefined,
+    },
+    "x-attribsPrefix": Object {
+      "class": undefined,
+    },
+  },
+  "_root": [Circular],
+  "length": 1,
+  "options": Object {
+    "decodeEntities": true,
+    "normalizeWhitespace": false,
+    "withDomLvl1": true,
+    "xml": false,
+  },
+}
+`;
